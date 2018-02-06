@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class MyComponentComponent {
 	title = 'my application';
 	author = 'Esteban Restrepo';
-	imgSource = './../favicon.ico';
+	imgSource = './assets/favicon.ico';
 	disable = true;
 }
